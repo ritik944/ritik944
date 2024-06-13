@@ -2,9 +2,9 @@
 
 my name is Ritik , and I'm an curently an undergad student intrested in all things Python & Data Science
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🔭 I’m currently working on data science project 
+- 🌱 I’m currently learning data science 
+- 👯 I’m looking to collaborate on 
 - 
 <!--
 **ritik944/ritik944** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
